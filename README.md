@@ -1,3 +1,4 @@
+
 1. Data Cleaning & PII Governance
 Privacy First (PII): Implemented data masking by dropping sensitive Customer Name columns and generating a Customer Name Masked column using initials to comply with data protection regulations.
 
